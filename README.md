@@ -1,2 +1,2 @@
 # ToDoList
-It's A Mini Task To Eecute To Do List.
+It's A Mini Task To Execute To Do List.
